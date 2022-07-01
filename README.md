@@ -19,5 +19,6 @@ Installation
 ## Usage
 
 Just press the  'Unswallow' button. The game should be loaded and the 
-character should be present in the party before usage.
+character should be present in the party before usage (as is, you should swap
+to the swallowed sister).
 

@@ -1,0 +1,9 @@
+{
+  "Id": "SwallowedFix",
+  "DisplayName": "Kingmaker Swallowed Status Fix",
+  "Author": "Ilkar",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.0",
+  "Requirements": [],
+  "EntryMethod": "SwallowedFix.Main.Load"
+}
